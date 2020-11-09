@@ -1,5 +1,5 @@
 <template>
-  <div id='app'>
+  <div id="app">
     <NavBar />
     <b-container>
       <router-view />
@@ -25,6 +25,4 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
-
-
 </style>
